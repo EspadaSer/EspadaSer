@@ -20,13 +20,9 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 
 </p>
 
-<!--
-![Jokes Card](https://readme-jokes.vercel.app/api)
--->
-
 [//]: <> (## 🛠 Technologies & Tools)
 
-## 📈 Some Numbers
+## Some Numbers 📈 
 
 <p align="center">
 
@@ -36,6 +32,19 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   -->
 </p>
 
+
+Thanks for visiting
+
+<p align="center">
+
+  <img align="center" src="https://profile-counter.glitch.me/Shreya549/count.svg" alt="VisitorCount">
+  <!--
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
+  -->
+</p>
+
+
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
 <!--
 ## 👨🏽‍💻 Latest Personal Project
