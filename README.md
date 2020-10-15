@@ -12,7 +12,7 @@
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
 
-## A Joke A Day <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
+## A Joke A Day <img src="https://espadaser.github.io./profile_readme/eye.png" width="32px">
 
 <p align="center">
 
@@ -32,7 +32,7 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   -->
 </p>
 
-## You are visitor number...
+## You are visitor number ...
 
 <p align="center">
 
