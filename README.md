@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
+<!--
 <img src="https://media.giphy.com/media/NYfo66iHZ7msO9wnKX/giphy.gif" width="100%">
-
+-->
 <p align="center">
 
   <a href="https://www.linkedin.com/in/sergio-espada/">
