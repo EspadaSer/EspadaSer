@@ -14,16 +14,26 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 
 ## A Joke a Day
 
+<p align="center">
+
+  <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+
+</p>
+
+<!--
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+-->
 
 [//]: <> (## 🛠 Technologies & Tools)
 
 ## 📈 Some Numbers
-![Github stats](https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&count_private=true&include_all_commits=true)
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+  <!--
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
+  -->
 </p>
 
 
