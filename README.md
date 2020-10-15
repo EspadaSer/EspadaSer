@@ -1,12 +1,8 @@
 
-
-<!--
-<img src="https://media.giphy.com/media/NYfo66iHZ7msO9wnKX/giphy.gif" width="100%">
--->
 <p align="center">
 
   <a href="https://www.linkedin.com/in/sergio-espada/">
-    <img src="https://inter-dev.co.il/wp-content/uploads/2018/11/linkedin.png" width = 50px/>
+    <img src="https://espadaser.github.io./profile_readme/linkedin.png" width = 50px/>
   </a>
 
 </p>
