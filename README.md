@@ -11,6 +11,12 @@
 <!--I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
+
+## Programming Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 [//]: <> (## 🛠 Technologies & Tools)
 
 ## 📈 Some Numbers
