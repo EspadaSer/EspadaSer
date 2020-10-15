@@ -7,7 +7,7 @@
 
 </p>
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 <!--I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
@@ -16,11 +16,16 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
 [//]: <> (## 🛠 Technologies & Tools)
 
 ## 📈 Some Numbers
 ![Github stats](https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&count_private=true&include_all_commits=true)
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+
 
 <!--
 ## 👨🏽‍💻 Latest Personal Project
