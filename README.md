@@ -32,7 +32,7 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   -->
 </p>
 
-## You are visitor number ...
+## You are visitor number ... <img src="https://espadaser.github.io./profile_readme/Counter.png" width="40px">
 
 <p align="center">
 
