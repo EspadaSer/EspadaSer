@@ -12,13 +12,9 @@
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
 
-## Programming Jokes
+## A Joke a Day
 
-<p align="center">
-
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</p>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 [//]: <> (## 🛠 Technologies & Tools)
