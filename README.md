@@ -7,12 +7,12 @@
 
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 <!--I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
 
-## A Joke a Day
+## A Joke A Day <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 
 <p align="center">
 
@@ -32,19 +32,15 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   -->
 </p>
 
-
-Thanks for visiting
+## You are visitor number...
 
 <p align="center">
 
-  <img align="center" src="https://profile-counter.glitch.me/Shreya549/count.svg" alt="VisitorCount">
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-  -->
+  <img align="center" src="https://profile-counter.glitch.me/espadaser/count.svg" alt="VisitorCount">
+ 
 </p>
 
 
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
 <!--
 ## 👨🏽‍💻 Latest Personal Project
