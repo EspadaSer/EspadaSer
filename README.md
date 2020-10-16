@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500">
+</p>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/sergio-espada/">
     <img src="https://espadaser.github.io./profile_readme/linkedin.png" width = 50px/>
   </a>
-
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
@@ -15,9 +16,7 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 ## A Joke A Day <img src="https://espadaser.github.io./profile_readme/eye.png" width="32px">
 
 <p align="center">
-
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-
 </p>
 
 [//]: <> (## 🛠 Technologies & Tools)
@@ -25,7 +24,6 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 ## Some Numbers 📈 
 
 <p align="center">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
   <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
@@ -35,11 +33,8 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 ## You are visitor number ... <img src="https://espadaser.github.io./profile_readme/Counter.png" width="40px">
 
 <p align="center">
-
   <img align="center" src="https://profile-counter.glitch.me/espadaser/count.svg" alt="VisitorCount">
- 
 </p>
-
 
 
 <!--
