@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/linkedin.png" width = 50px/>
   </a>
   <a href="https://espadaser.github.io./">
-    <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/webiconbb.png" width = 50px/>
+    <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/webicont.png" width = 50px/>
   </a>
 </p>
 
