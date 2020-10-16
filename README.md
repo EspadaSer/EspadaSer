@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/sergio-espada/">
     <img src="https://espadaser.github.io./profile_readme/linkedin.png" width = 50px/>
   </a>
+  <a href="https://espadaser.github.io./">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" width = 50px/>
+  </a>
 </p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
