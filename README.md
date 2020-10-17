@@ -16,13 +16,13 @@
 <!--I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
-## My Personal Stack <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stackshare-icon.png" width="40px">
+## My Personal Stack <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/stackshare.png" width="32px">
 
 <p align="center">
   
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/vscode.png" alt="Visual Studio Code" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/python.png" alt="Python" width = 50px/>
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/mysqul.png" alt="MySQL" width = 50px/>
+  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/mysql.png" alt="MySQL" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/github.png" alt="Github" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/pbi.png" alt="PowerBI" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/excel.png" alt="Excel" width = 50px/>
@@ -30,7 +30,6 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/rpi.png" alt="Raspberri Pi" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/gdrive.png" alt="Google Drive" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/dropbox.jpg" alt="Dropbox" width = 50px/>
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/vscode.png" alt="Visual Studio Code" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/blender.jpg" alt="Blender" width = 50px/> 
 
 </p>
