@@ -41,9 +41,7 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </p>
 
-
-
-## Some Numbers 📈 
+## Some Numbers <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stats.png" width="32px">
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide=stars" alt="My Github Stats">
@@ -65,6 +63,8 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 
 
 [//]: <> (## 🛠 Technologies & Tools)
+
+https://github.com/anuraghazra/github-readme-stats
 
 Here are some ideas to get you started:
 
