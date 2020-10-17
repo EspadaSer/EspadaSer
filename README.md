@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/linkedin.png" width = 50px/>
   </a>
   <a href="https://espadaser.github.io./">
-    <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/webicont2.png" width = 50px/>
+    <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/webicont.png" width = 50px/>
   </a>
 </p>
 
@@ -23,13 +23,13 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/vscode.png" alt="Visual Studio Code" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/python.png" alt="Python" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/mysql.png" alt="MySQL" width = 50px/>
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/github.png" alt="Github" width = 50px/>
+  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/githubbw.png" alt="Github" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/pbi.png" alt="PowerBI" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/excel.png" alt="Excel" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/arduino.png" alt="Arduino" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/rpi.png" alt="Raspberri Pi" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/gdrive.png" alt="Google Drive" width = 50px/>
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/dropbox.jpg" alt="Dropbox" width = 50px/>
+  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/dropbox.png" alt="Dropbox" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/blender.jpg" alt="Blender" width = 50px/> 
 
 </p>
