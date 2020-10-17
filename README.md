@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/synthwave500.gif" alt="Synthwave" height="300" width="500">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/synth2.gif" alt="Synthwave" height="300" width="500">
+  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/synthwaveround.gif" alt="Synthwave" height="300" width="500">
 </p>
 
 <p align="center">
