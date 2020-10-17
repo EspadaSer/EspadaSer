@@ -13,11 +13,10 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/wave.gif" width="32px">
 
-
-
 <!--I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 -->
+
 ## My Personal Stack <a href="https://stackshare.io/espadaser"> <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/stackshare.png" width="32px"> </a>
 
 <p align="center">
@@ -42,12 +41,12 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </p>
 
-[//]: <> (## 🛠 Technologies & Tools)
+
 
 ## Some Numbers 📈 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide=stars" alt="My Github Stats">
   <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espadaser&layout=compact&theme=radical" alt="My Github Stats">
   -->
@@ -64,6 +63,8 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 ## 👨🏽‍💻 Latest Personal Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=espadaser&repo=linkedin_connect&show_owner=true)](https://github.com/espadaser/linkedin_connect)
 
+
+[//]: <> (## 🛠 Technologies & Tools)
 
 Here are some ideas to get you started:
 
