@@ -13,9 +13,9 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/wave.gif" width="32px">
 
-<!--I'm Mario, a Uruguayan Software Engineer living in Israel.
-Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
--->
+<p>
+  Electrical engineer with experience in Research and Development of renewable energies, as well as control and construction of Oil&Gas projects.
+</p>
 
 ## My Personal Stack <a href="https://stackshare.io/espadaser"> <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/stackshare.png" width="32px"> </a>
 
