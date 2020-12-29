@@ -29,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/pbi.png" alt="PowerBI" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/excel.png" alt="Excel" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/arduino.png" alt="Arduino" width = 50px/>
+  <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/altium.jpg" alt="Altium Designer" width = 50px/> 
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/rpi.png" alt="Raspberri Pi" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/gdrive.png" alt="Google Drive" width = 50px/>
   <img src="https://raw.githubusercontent.com/EspadaSer/EspadaSer/main/stack/dropbox.png" alt="Dropbox" width = 50px/>
