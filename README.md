@@ -20,19 +20,19 @@
 ## My Personal Stack <a href="https://stackshare.io/espadaser"> <img src="icons/stackshare.svg" width="32" alt="StackShare"> </a>
 
 <p align="center">
-  <img src="icons/vscode.svg" alt="Visual Studio Code" width="40">
-  <img src="icons/python.svg" alt="Python" width="40">
-  <img src="icons/mysql.svg" alt="MySQL" width="40">
-  <img src="icons/excel.svg" alt="Excel" width="40">
-  <img src="icons/github.svg" alt="GitHub" width="40">
-  <img src="icons/gitkraken.svg" alt="GitKraken" width="40">
-  <img src="icons/powerbi.svg" alt="Power BI" width="40">
-  <img src="icons/arduino.svg" alt="Arduino" width="40">
-  <img src="icons/altium.svg" alt="Altium Designer" width="40">
-  <img src="icons/raspberrypi.svg" alt="Raspberry Pi" width="40">
-  <img src="icons/googledrive.svg" alt="Google Drive" width="40">
-  <img src="icons/dropbox.svg" alt="Dropbox" width="40">
-  <img src="icons/blender.svg" alt="Blender" width="40">
+  <img src="stack/vscode.svg" alt="Visual Studio Code" width="40">
+  <img src="stack/python.svg" alt="Python" width="40">
+  <img src="stack/mysql.svg" alt="MySQL" width="40">
+  <img src="stack/excel.svg" alt="Excel" width="40">
+  <img src="stack/github.svg" alt="GitHub" width="40">
+  <img src="stack/gitkraken.svg" alt="GitKraken" width="40">
+  <img src="stack/pbi.svg" alt="Power BI" width="40">
+  <img src="stack/arduino.svg" alt="Arduino" width="40">
+  <img src="stack/altium.svg" alt="Altium Designer" width="40">
+  <img src="stack/rpi.svg" alt="Raspberry Pi" width="40">
+  <img src="stack/gdrive.svg" alt="Google Drive" width="40">
+  <img src="stack/dropbox.svg" alt="Dropbox" width="40">
+  <img src="stack/blender.svg" alt="Blender" width="40">
 </p>
 
 ## A Joke A Day <img src="icons/eye.png" width="32" alt="">
