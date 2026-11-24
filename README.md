@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergio-espada/">
-    <img src="icons/linkedin.png" width="50" alt="LinkedIn">
-  </a>
-  <a href="https://espadaser.github.io/">
-    <img src="icons/webicont.png" width="50" alt="Sitio web">
-  </a>
+  <a href="https://www.linkedin.com/in/sergio-espada/"><img src="icons/linkedin.png" width="50" alt="LinkedIn"></a>
+  <a href="https://espadaser.github.io/"><img src="icons/webicont.png" width="50" alt="Sitio web"></a>
 </p>
 
 ## Hi there! <img src="icons/wave.gif" width="32" alt="">
@@ -17,7 +13,7 @@
   Electrical engineer with experience in Research and Development of renewable energies, as well as control and construction of Oil&Gas projects.
 </p>
 
-## My Personal Stack <a href="https://stackshare.io/espadaser"> <img src="icons/stackshare.svg" width="32" alt="StackShare"> </a>
+## My Personal Stack <a href="https://stackshare.io/espadaser"><img src="icons/stackshare.svg" width="32" alt="StackShare"></a>
 
 <p align="center">
   <img src="stack/vscode.svg" alt="Visual Studio Code" width="40">
