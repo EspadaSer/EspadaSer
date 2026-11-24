@@ -10,7 +10,7 @@
 ## Hi there! <img src="icons/hello.svg" width="32" alt="">
 
 <p>
-  Electrical engineer with experience in Research and Development of renewable energies, as well as control and construction of Oil&Gas projects.
+  Electrical engineer with hands-on experience in renewable energy R&D, photovoltaic testing, hardware design and project control for Oil & Gas. I like turning field problems into measurement tools, clean data and software people can actually use.
 </p>
 
 ## My Personal Stack <a href="https://stackshare.io/espadaser"><img src="icons/stackshare.svg" width="32" alt="StackShare"></a>
