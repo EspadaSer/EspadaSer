@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergio-espada/"><img src="links/linkedin.svg" width="50" alt="LinkedIn"></a>
-  <a href="https://espadaser.github.io/"><img src="links/webicont.svg" width="50" alt="Sitio web"></a>
+  <a href="https://www.linkedin.com/in/sergio-espada/"><img src="links/linkedin.svg" width="100" alt="LinkedIn"></a>
+  <a href="https://espadaser.github.io/"><img src="links/webicont.svg" width="100" alt="Sitio web"></a>
 </p>
 
 ## Hi there! <img src="icons/hello.svg" width="32" alt="">
