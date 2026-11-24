@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&theme=nightowl&hide=stars" alt="My Github Stats">
 </p>
 
-## You are visitor number ... <img src="icons/counter.svg" width="40" alt="">
+## You are visitor number ... <img src="icons/ticket.svg" width="40" alt="Entradas">
 
 <p align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=EspadaSer.github.io&left_text=visitas&left_color=595959&right_color=6ea8fe&logo=github" alt="Contador de visitas">
