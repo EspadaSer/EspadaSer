@@ -37,13 +37,13 @@
   <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
 </p>
 
-## Some Numbers <img src="icons/stats.svg" width="30" alt="">
+## Some Numbers <img src="icons/stats.svg" width="32" alt="">
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&theme=nightowl&hide=stars" alt="My Github Stats">
 </p>
 
-## You are visitor number ... <img src="icons/ticket.svg" width="40" alt="Entradas">
+## You are visitor number ... <img src="icons/ticket.svg" width="32" alt="Entradas">
 
 <p align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=EspadaSer.github.io&left_text=visitas&left_color=595959&right_color=6ea8fe&logo=github" alt="Contador de visitas">
