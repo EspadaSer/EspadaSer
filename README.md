@@ -44,7 +44,7 @@
 ## Some Numbers <img src="icons/stats.png" width="30" alt="">
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&theme=nightowl&count_private=true&include_all_commits=true&hide=stars" alt="My Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=espadaser&show_icons=true&theme=nightowl&hide=stars" alt="My Github Stats">
 </p>
 
 ## You are visitor number ... <img src="icons/counter.png" width="40" alt="">
