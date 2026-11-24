@@ -16,29 +16,29 @@
 ## My Stack <a href="https://stackshare.io/espadaser"><img src="icons/stackshare.svg" width="32" alt="StackShare"></a>
 
 <p align="center">
-  <img src="stack/git.svg" alt="Git" width="40">
-  <img src="stack/linux.svg" alt="Linux" width="40">
-  <img src="stack/vscode.svg" alt="Visual Studio Code" width="40">
-  <img src="stack/python.svg" alt="Python" width="40">
-  <img src="stack/github.svg" alt="GitHub" width="40">
-  <img src="stack/claudecode.svg" alt="Claude Code" width="40">
-  <img src="stack/anthropic.svg" alt="Anthropic" width="40">
-  <img src="stack/gemini.svg" alt="Gemini" width="40">
-  <img src="stack/excel.svg" alt="Excel" width="40">
   <img src="stack/altium.svg" alt="Altium" width="40">
+  <img src="stack/anthropic.svg" alt="Anthropic" width="40">
+  <img src="stack/claudecode.svg" alt="Claude Code" width="40">
+  <img src="stack/excel.svg" alt="Excel" width="40">
+  <img src="stack/gemini.svg" alt="Gemini" width="40">
+  <img src="stack/git.svg" alt="Git" width="40">
+  <img src="stack/github.svg" alt="GitHub" width="40">
+  <img src="stack/linux.svg" alt="Linux" width="40">
+  <img src="stack/python.svg" alt="Python" width="40">
+  <img src="stack/vscode.svg" alt="Visual Studio Code" width="40">
 </p>
 
 ## My Home Lab <img src="icons/homelab.svg" width="32" alt="">
 
 <p align="center">
-  <img src="stack/homeassistant.svg" alt="Home Assistant" width="40">
-  <img src="stack/rpi.svg" alt="Raspberry Pi" width="40">
-  <img src="stack/hermes.svg" alt="Hermes Agent" width="40">
-  <img src="stack/immich.svg" alt="Immich" width="40">
-  <img src="stack/docker.svg" alt="Docker" width="40">
   <img src="stack/arduino.svg" alt="Arduino" width="40">
   <img src="stack/artcraft.svg" alt="ArtCraft" width="40">
+  <img src="stack/docker.svg" alt="Docker" width="40">
+  <img src="stack/hermes.svg" alt="Hermes Agent" width="40">
+  <img src="stack/homeassistant.svg" alt="Home Assistant" width="40">
+  <img src="stack/immich.svg" alt="Immich" width="40">
   <img src="stack/proxmox.svg" alt="Proxmox VE" width="40">
+  <img src="stack/rpi.svg" alt="Raspberry Pi" width="40">
 </p>
 
 ## A Joke A Day <img src="icons/eye.svg" width="32" alt="">
