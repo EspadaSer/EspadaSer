@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="stack/altium.svg" alt="Altium" width="40">
-  <img src="stack/anthropic.svg" alt="Anthropic" width="40">
+  <img src="stack/chatgpt.svg" alt="ChatGPT" width="40">
   <img src="stack/claudecode.svg" alt="Claude Code" width="40">
   <img src="stack/excel.svg" alt="Excel" width="40">
   <img src="stack/gemini.svg" alt="Gemini" width="40">
